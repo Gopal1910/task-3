@@ -1,0 +1,5 @@
+- [x] Initialize npm project with `npm init -y`
+- [x] Install Express.js with `npm install express`
+- [x] Create `server.js` with CRUD endpoints for books
+- [x] Refactor code into `index.js` (main entry) and `routes/books.js` (book routes)
+- [x] Run the server with `node index.js` and verify endpoints
